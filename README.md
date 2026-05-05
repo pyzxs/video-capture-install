@@ -9,16 +9,16 @@ Video Capture 是一款桌面端视频处理工具，集成了视频下载、语
 ### 方式一：安装包（推荐）
 
 1. 前往 [Releases](https://github.com/pyzxs/video-capture-install/releases) 页面
-2. 下载最新版本的 `Video-Capture-Setup.exe`
+2. 下载最新版本的 `Video Capture Setup 1.0.0.exe`
 3. 双击运行安装程序，按提示完成安装
 4. 安装完成后桌面会自动创建快捷方式
 
 ### 方式二：绿色压缩包
 
 1. 前往 [Releases](https://github.com/pyzxs/video-capture-install/releases) 页面
-2. 下载 `Video-Capture.zip`
+2. 下载 `Video Capture-1.0.0-win.zip`
 3. 解压到任意目录
-4. 双击 `video-capture-server.exe` 启动
+4. 双击 `Video Catpure.exe` 启动
 
 > **注意**：首次启动时会自动下载必要资源文件，请保持网络畅通。
 
